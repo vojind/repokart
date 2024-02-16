@@ -1,4 +1,4 @@
-{"type":"Topology","bbox":[4.500476855949154,57.95939249624493,31.16814733787377,71.18551513148634],"objects":{"Kommuner":{"type":"GeometryCollection","geometries":[{"type":"MultiPolygon","arcs":[[[0,1,2,3,4,5,6]]],"properties":{"kommunenummer":4216,"navn":"Birkenes"}}]}},
+{"type":"Topology","bbox":[4.500476855949154,57.95939249624493,31.16814733787377,71.18551513148634],"objects":{"Kommuner":{"type":"GeometryCollection","geometries":[{"type":"MultiPolygon","arcs":[[[0,1]]],"properties":{"kommunenummer":4216,"navn":"Birkenes"}}]}},
 
 
 
